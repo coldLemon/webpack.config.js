@@ -1,3 +1,4 @@
+//webpack": "^4.35.2",
 const path = require('path');
 const VueLoaderPlugin = require('vue-loader/lib/plugin');  //打包vue
 const HtmlWebpackPlugin = require('html-webpack-plugin');//打包html
